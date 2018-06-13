@@ -1,6 +1,10 @@
 # expression-sandbox [![Build Status](https://travis-ci.org/JoshuaWise/expression-sandbox.svg?branch=master)](https://travis-ci.org/JoshuaWise/expression-sandbox)
 This lets you compile and run someone else's arbitrary JavaScript safely within your own JavaScript program.
 
+**UPDATE:**
+
+This was more of a fun/experimental project. If anyone would like to take over the repo, just ask. Otherwise, it will remain archived.
+
 ## Installation
 ```
 npm install --save expression-sandbox

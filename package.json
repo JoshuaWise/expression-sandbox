@@ -4,7 +4,7 @@
   "description": "A small tool for evaluating JavaScript code in a secure sandbox, for Node.js or the modern browser.",
   "main": "index.js",
   "scripts": {
-    "test": "$(npm bin)/mocha"
+    "test": "$(npm bin)/mocha --exit"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/JoshuaWise/expression-sandbox#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^3.0.2"
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
   }
 }

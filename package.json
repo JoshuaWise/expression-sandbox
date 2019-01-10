@@ -25,7 +25,7 @@
     "url": "https://github.com/JoshuaWise/expression-sandbox/issues"
   },
   "homepage": "https://github.com/JoshuaWise/expression-sandbox#readme",
-  "dependencies": {
+  "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.0.2"
   }
